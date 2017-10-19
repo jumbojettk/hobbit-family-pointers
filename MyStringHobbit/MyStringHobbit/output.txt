@@ -1,0 +1,55 @@
+********Welcome to the MyString Hobbit by Napon Krassner (Jett)********
+
+==== Testing printRelation ====
+
+===== Relationship of Samwise and Gaffer: =====
+Gaffer Gamgee is a parent of Samwise Gamgee.
+
+===== Relationship of Samwise and Elanor: =====
+Samwise Gamgee is a parent of Elanor Gamgee
+
+===== Relationship of Gaffer and Elanor: =====
+Gaffer Gamgee and Elanor Gamgee are related, but not directly.
+
+===== Relationship of Elanor and Eegmag: =====
+Elanor Gamgee is a parent of Eegmag Gamgee.
+
+===== Relationship of Samwise and Raffer: =====
+Samwise Gamgee and Raffer Gamgee are related, but not directly.
+
+
+
+===== Testing printFamilyStick on Gaffer: =====
+The family stick of Gaffer Gamgee:
+                        GAFFER GAMGEE (YOB: 1326) (Age: 689)
+                             |
+                        Samwise Gamgee (YOB: 1380) (Age: 635)
+                             |
+                        Elanor Gamgee (YOB: 1421) (Age: 594)
+                             |
+                        Eegmag Gamgee (YOB: 1461) (Age: 554)
+                             |
+                        Raffer Gamgee (YOB: 1900) (Age: Eleventy-Five)
+
+
+==== Testing printStats on Samwise: ====
+The statistics on Samwise Gamgee and his/her descendents:
+Total number of vowels in Samwise Gamgee is: 6
+Total number of vowels in Elanor Gamgee is: 6
+Total number of vowels in Eegmag Gamgee is: 6
+Total number of vowels in Raffer Gamgee is: 5
+Total number of Hobbits whose names are palindromes: 1
+
+
+
+==== Testing MyString Class ====
+The length of "The Green Dragon" is: 17
+Capitalized The Green Dragon is: THE GREEN DRAGON
+The char at position 12 in THE GREEN DRAGON is: A
+Add X to position 12 in THE GREEN DRAGON then it becomes: THE GREEN DRXAGON
+The size of THE GREEN DRXAGON is 18
+Resizing to 7 becomes: THE GR
+Number of vowels in THE GR is: 1
+
+
+Press any key to continue . . .
